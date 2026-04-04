@@ -57,7 +57,7 @@ Data Analyst certifié, spécialisé en analyse business, segmentation client (R
 - Identification d'une forte dépendance au marché UK (> 80% du chiffre d'affaires), révélant un risque business et une opportunité de diversification.
 - Segmentation RFM directement exploitable pour lancer des campagnes marketing ciblées (fidélisation, réactivation, upsell).
 
-🔗 **Voir le projet** : [Notebook Kaggle](https://www.kaggle.com/code/jninon/online-retail-customer-clustering-analysis)
+🔗 **Voir le projet** : [Notebook Kaggle](https://www.kaggle.com/code/jninon/online-retail-customer-clustering-analysis) <br>
 🔗 **Voir le tableau de bord** : [Tableau Public](https://public.tableau.com/app/profile/jean.mav8294/viz/OnlineRetailPerformanceAnalysis2011/) 
 
 ---
@@ -93,7 +93,7 @@ Data Analyst certifié, spécialisé en analyse business, segmentation client (R
 - Insights Marché : Identification de marchés à forte concentration et opportunités de croissance sur les pays à panier moyen élevé.
 - Stratégie Contenu : Segmentation des ventes par artistes et morceaux pour orienter les futures campagnes marketing.
 
-🔗 **Voir le projet** : [Github](https://github.com/Jean-mav/chinook-project)
+🔗 **Voir le projet** : [GitHub](https://github.com/Jean-mav/chinook-project)
 
 ---
 
