@@ -1,6 +1,6 @@
 title: "Jean MAV"
 logo : img/pt.png
-description: Data Analyst orienté business, J’aide les entreprises à transformer leurs données en décisions rentables (RFM, dashboards, analyse marketing)
+description: Data Analyst orienté business, j’aide les entreprises à transformer leurs données en décisions rentables (RFM, dashboards, ...)
 theme: jekyll-theme-minimal
 
 author:
@@ -12,4 +12,8 @@ social_links:
   github: https://github.com/Jean-mav
 
 show_downloads: false
+
 lang : fr
+
+github :
+  is_project_page: false
