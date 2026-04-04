@@ -1,6 +1,15 @@
-title : "Jean MAV"
+title: "Jean MAV"
 logo : img/pt.png
-description : "Data Analyst"
-show_downloads : true
-theme : jekyll-theme-minimal
+description: Data Analyst orienté business, J’aide les entreprises à transformer leurs données en décisions rentables (RFM, dashboards, analyse marketing)
+theme: jekyll-theme-minimal
+
+author:
+  name: Jean MAV
+  email: mav.analyste@gmail.com
+
+social_links:
+  linkedin: https://www.linkedin.com/in/jean-mav-b572a4337
+  github: https://github.com/Jean-mav
+
+show_downloads: false
 lang : fr
